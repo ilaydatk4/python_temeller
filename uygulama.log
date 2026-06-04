@@ -1,0 +1,4 @@
+2026-06-04 16:46:37,848 - INFO - Uygulama baþarýyla ayaða kalktý.
+2026-06-04 16:46:37,849 - INFO - Sistem 'olmayan_rapor.txt' dosyasýný okumaya çalýþýyor.
+2026-06-04 16:46:37,849 - ERROR - Kritik Hata! Ýstenen dosya bulunamadý. Detay: [Errno 2] No such file or directory: 'olmayan_rapor.txt'
+2026-06-04 16:46:37,849 - INFO - Uygulama güvenli bir þekilde kapatýldý.
